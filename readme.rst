@@ -48,7 +48,7 @@ sphinx_rtd_theme/：为生成html文档所使用的主题；
 http://design-patterns.readthedocs.org/zh_CN/latest/index.html
 
 其他学习网址：
-http://c.biancheng.net/view/8373.html
-https://www.cnblogs.com/pony1223/p/7608955.html
-https://www.runoob.com/design-pattern/abstract-factory-pattern.html
+http://c.biancheng.net/view/8373.html；
+https://www.cnblogs.com/pony1223/p/7608955.html；
+https://www.runoob.com/design-pattern/abstract-factory-pattern.html；
 
